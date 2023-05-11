@@ -1,1 +1,6 @@
-dmxlc3M6Ly9CQVguVjE2QHMxMDAuY2xvc2VwaW5nLnNob3A6ODA4MD9zZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZoZWFkZXJUeXBlPWh0dHAmdHlwZT10Y3AjY2xvc2VwaW5n
+vless://8912c30b-0e1c-484f-9e41-47b12c07a4b0@116.202.98.161:8569?mode=gun&security=reality&encryption=none&pbk=Wv73k9fTXc2kBnU7xSsZRPkgHgckx10a4PaCGA6BPUk&fp=chrome&type=grpc&serviceName=@AmirTechno_Service&sni=discord.com&sid=ca2e3859#%40Alpha_Omega_Vpn
+vless://e1360a8e-d670-4383-9e80-4002d40e0f8b@116.202.98.161:69?path=%40AmirTechno_Service&security=reality&encryption=none&pbk=AHKQPehPzz_B0urmxf2dc0lcucc3eg_XCNdNkzCvHwM&fp=chrome&type=http&sni=discord.com&sid=4cea48fc#%40Alpha_Omega_Vpn
+vless://57a455fa-a09d-4d4e-9c9b-3d7b34ac8356@51.75.56.189:443?mode=gun&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=ios&type=grpc&serviceName=&sni=www.iranserver.com#%F0%9F%87%B5%F0%9F%87%B1Reality
+vless://Legenderyking@37.27.10.2:443?mode=gun&security=reality&encryption=none&pbk=VuDFPJDhbD_FXIRgDIP092GPvKMlIYZW12fOo-7WxzY&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=iranserver.com&sid=a4f79a35#Reality+1
+trojan://Alpha_Omega_Admin@116.202.98.161:5885?mode=multi&security=reality&pbk=qPu6pT88qI9UDgRMdfVPIY-ZyoPqudUbmiDD12ZKOH4&fp=safari&type=grpc&serviceName=@AmirTechno_Service&sni=eset.com&sid=c45abfde#%40Alpha_Omega_VPN
+vless://03ece9dd-1e20-434a-e7ea-96d83ce10db7@49.13.6.89:21594?mode=gun&security=reality&encryption=none&pbk=JMEw9Wi1Ki_v1B4U9c7MP2KHW7afSugHRXNhvC99SDY&fp=chrome&type=grpc&serviceName=&sni=ftp.debian.org#Reality-2
